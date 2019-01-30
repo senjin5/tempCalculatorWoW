@@ -1,0 +1,9 @@
+TABLE {
+	background: white; /* Цвет фона таблицы */
+    color: black; /* Цвет текста */
+}
+
+TD, TH {
+    padding: 5px; /* Поля вокруг текста */
+	border: 2px solid black;
+}
